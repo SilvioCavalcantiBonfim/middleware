@@ -5,4 +5,6 @@ const API = express();
 require('./routes')(API);
 API.use(express.json())
 
-API.listen(process.env.API_PORT || 80);
+API.listen(process.env.API_PORT || 8000);
+
+module.exports = API;

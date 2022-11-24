@@ -1,6 +1,5 @@
 # middleware
 
-![GitHub](https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github)
 ![GitHub](https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=nodejs)
 ![GitHub](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express)
 

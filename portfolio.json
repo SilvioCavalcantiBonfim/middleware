@@ -1,5 +1,5 @@
 {
-    "project": "Asteroids",
-    "frameworks": ["createreactapp"],
-    "description": "Sistema em javascript baseado no jogo asteroids."
+    "project": "Middleware",
+    "frameworks": ["nodedotjs", "express"],
+    "description": "API de middleware simples com express para efetuar requisições no-cors."
 }
